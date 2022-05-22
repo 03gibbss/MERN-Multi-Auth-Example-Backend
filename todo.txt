@@ -1,0 +1,7 @@
+- Add role protected routes i.e. admin only route, customer only route, supplier only route
+- Add google and twitch logins
+- Add websockets with authentication
+- Tidy up all the code
+- See how useContext is being used
+- Forgotten password / password reset
+- Activate account email + password link
